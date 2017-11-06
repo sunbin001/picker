@@ -1,0 +1,24 @@
+{
+  "name": "picker",
+  "version": "0.0.1",
+  "license": "MIT",
+  "authors": [
+    "Andres Morey <andres@muicss.com>"
+  ],
+  "main": [
+	"css/app.css",
+	"css/mui.min.css",
+	"css/mui.picker.css",
+	"css/mui.picker.min.css",
+	"css/mui.poppicker.css",
+	"js/mui.min.js",
+    "js/mui.picker.js",
+    "js/mui.picker.min.js",
+    "js/mui.poppicker.js"
+  ], 
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1"
+  }
+
+}
